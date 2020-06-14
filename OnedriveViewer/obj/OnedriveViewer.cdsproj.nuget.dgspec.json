@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Source\\PCF\\DynamicTouch.OnedriveViewer\\OnedriveViewer\\OnedriveViewer.cdsproj": {}
+  },
+  "projects": {
+    "d:\\Source\\PCF\\DynamicTouch.OnedriveViewer\\DynamicTouch.OnedriveViewer.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Source\\PCF\\DynamicTouch.OnedriveViewer\\DynamicTouch.OnedriveViewer.pcfproj",
+        "projectName": "DynamicTouch.OnedriveViewer",
+        "projectPath": "d:\\Source\\PCF\\DynamicTouch.OnedriveViewer\\DynamicTouch.OnedriveViewer.pcfproj",
+        "packagesPath": "C:\\Users\\Optiplex7010SFF\\.nuget\\packages\\",
+        "outputPath": "d:\\Source\\PCF\\DynamicTouch.OnedriveViewer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Optiplex7010SFF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\Source\\PCF\\DynamicTouch.OnedriveViewer\\OnedriveViewer\\OnedriveViewer.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Source\\PCF\\DynamicTouch.OnedriveViewer\\OnedriveViewer\\OnedriveViewer.cdsproj",
+        "projectName": "OnedriveViewer",
+        "projectPath": "D:\\Source\\PCF\\DynamicTouch.OnedriveViewer\\OnedriveViewer\\OnedriveViewer.cdsproj",
+        "packagesPath": "C:\\Users\\Optiplex7010SFF\\.nuget\\packages\\",
+        "outputPath": "D:\\Source\\PCF\\DynamicTouch.OnedriveViewer\\OnedriveViewer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Optiplex7010SFF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "projectReferences": {
+              "d:\\Source\\PCF\\DynamicTouch.OnedriveViewer\\DynamicTouch.OnedriveViewer.pcfproj": {
+                "projectPath": "d:\\Source\\PCF\\DynamicTouch.OnedriveViewer\\DynamicTouch.OnedriveViewer.pcfproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "dependencies": {
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

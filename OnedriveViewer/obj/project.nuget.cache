@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtxrb/NGngmzcA5+Ja1+LM0h2kFuYJo851z8R5oM74+FS9U3JU0V97TMzVbKJ5LCXEvt/UFJ8C4eonwog1VrCg==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\PCF\\DynamicTouch.OnedriveViewer\\OnedriveViewer\\OnedriveViewer.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Optiplex7010SFF\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.3.1\\microsoft.powerapps.msbuild.pcf.1.3.1.nupkg.sha512",
+    "C:\\Users\\Optiplex7010SFF\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.3.1\\microsoft.powerapps.msbuild.solution.1.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
